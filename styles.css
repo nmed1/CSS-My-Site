@@ -58,6 +58,7 @@ hr {
   text-align: center;
   padding: 50px 0 20px;
   position: relative;
+  top: 100px;
 }
 
 .pro {
@@ -93,6 +94,17 @@ hr {
     padding-left: 30px;
 }
 
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
 
 /*the webkits in this code are old/outdated so it won't run
 .btn {
